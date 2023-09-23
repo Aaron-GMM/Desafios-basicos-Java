@@ -20,3 +20,13 @@ que Vô João consegue pagar.
 Escreva um programa que, com base em uma temperatura em graus celsius,
 a converta e exiba em Kelvin (K), Réaumur (Re), Rankine (Ra) e Fahrenheit (F), 
 #### Fiz de forma mais interativa para o  user, possibilitando escolher qual unidade de medida 
+
+### Desafio 2 Lista de desafios em dev.to/guilhermemanzano
+ Tem-se um conjunto de dados contendo a altura e o sexo (masculino, feminino) de 10 pessoas. 
+ Fazer um algoritmo que calcule e escreva:
+a. a maior do grupo;
+b. média de altura dos homens;
+c. média de altura das mulheres;
+d. o número de homens;
+e.o número de mulheres.
+
