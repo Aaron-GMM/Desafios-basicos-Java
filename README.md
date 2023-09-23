@@ -19,4 +19,4 @@ que Vô João consegue pagar.
 ### Desafio 1 Lista de desafios em dev.to/guilhermemanzano
 Escreva um programa que, com base em uma temperatura em graus celsius,
 a converta e exiba em Kelvin (K), Réaumur (Re), Rankine (Ra) e Fahrenheit (F), 
-#### Fiz de forma mais interativa com o user possibilitando escolher qual unidade de medida 
+#### Fiz de forma mais interativa para o  user, possibilitando escolher qual unidade de medida 
