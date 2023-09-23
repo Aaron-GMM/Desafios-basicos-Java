@@ -1,5 +1,4 @@
 # Desafios-basic-Java
-Desafios em Java
 ### Questão 1 da OBI
 Vô João está aposentado, tem boa saúde, mas a vida não está fácil. Todo mês é um sufoco para
 conseguir pagar as contas! Ainda bem que ele é muito amigo dos donos das lojas do bairro, e eles
@@ -17,3 +16,7 @@ inteiro P , o valor da conta da Padaria.
 Saída
 Seu programa deve produzir uma única linha, contendo um único inteiro, o maior número de contas
 que Vô João consegue pagar.
+### Desafio 1 Lista de desafios em dev.to/guilhermemanzano
+Escreva um programa que, com base em uma temperatura em graus celsius,
+a converta e exiba em Kelvin (K), Réaumur (Re), Rankine (Ra) e Fahrenheit (F), 
+#### Fiz de forma mais interativa com o user possibilitando escolher qual unidade de medida 
