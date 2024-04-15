@@ -1,4 +1,4 @@
-# Desafios-basic-Java
+# Desafios-basicos-Java
 ### Questão 1 da OBI
 Vô João está aposentado, tem boa saúde, mas a vida não está fácil. Todo mês é um sufoco para
 conseguir pagar as contas! Ainda bem que ele é muito amigo dos donos das lojas do bairro, e eles
